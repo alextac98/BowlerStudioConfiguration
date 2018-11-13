@@ -1,6 +1,23 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/OperationSmallKat/Smallkat_XL.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/Smallkat_XL.git",
+      "Bowler/MediumCad.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Smallkat_XL.git:Bowler/MediumKat.xml": [
+      "https://github.com/OperationSmallKat/Smallkat_XL.git",
+      "Bowler/MediumKat.xml"
+    ],
+    "https://github.com/OperationSmallKat/Smallkat_XL.git:Bowler/DynamicWalking.groovy": [
+      "https://github.com/OperationSmallKat/Smallkat_XL.git",
+      "Bowler/DynamicWalking.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Smallkat_XL.git:Bowler/SimulateKat.groovy": [
+      "https://github.com/OperationSmallKat/Smallkat_XL.git",
+      "Bowler/SimulateKat.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
     "fontsize": 12.0,
