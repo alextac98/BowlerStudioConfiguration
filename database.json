@@ -1,11 +1,6 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {
-    "git@bitbucket.org:smallkat/smallkat-xl-kernel.git:Bowler/SimulateKat.groovy": [
-      "git@bitbucket.org:smallkat/smallkat-xl-kernel.git",
-      "Bowler/SimulateKat.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
     "fontsize": 12.0,
