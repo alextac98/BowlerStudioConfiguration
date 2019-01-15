@@ -5,6 +5,10 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "dhsolver.groovy"
     ],
+    "https://gist.github.com/5c990ffbb6b7cee71d75842b52c032bf.git:chesspiece.groovy": [
+      "https://gist.github.com/5c990ffbb6b7cee71d75842b52c032bf.git",
+      "chesspiece.groovy"
+    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/xlKat.xml"
@@ -12,10 +16,6 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:loadRobot.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "loadRobot.groovy"
-    ],
-    "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git:DefaultDhSolver.groovy": [
-      "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git",
-      "DefaultDhSolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
