@@ -5,10 +5,6 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "dhsolver.groovy"
     ],
-    "https://gist.github.com/5c990ffbb6b7cee71d75842b52c032bf.git:chesspiece.groovy": [
-      "https://gist.github.com/5c990ffbb6b7cee71d75842b52c032bf.git",
-      "chesspiece.groovy"
-    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/xlKat.xml"
